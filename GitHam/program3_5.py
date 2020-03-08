@@ -6,3 +6,5 @@ print(164 % 3)
 print("164 // 3は？")
 print(164 // 3)
 print("hage")
+# nomu変更
+print("git change test end!")
